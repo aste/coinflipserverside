@@ -50,5 +50,3 @@ Make sure you have Node.js and npm installed on your machine. You can download t
    ```
 
 2. Open your web browser and go to `http://localhost:3000`
-
-### File Structure
